@@ -1,4 +1,4 @@
-package com.Juego2D.graficos;
+package com.javier.graficos;
 
 public class Renderizado2D {
 
