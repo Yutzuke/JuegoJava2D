@@ -10,6 +10,11 @@ public class Juego2D { // Creando clase Juego2D
 
 		Actor objetoActor = new Actor(34); // le paso la edad
 
+<<<<<<< HEAD
+=======
+		
+
+>>>>>>> e1a02d61b728c116bec574568559515dae3d6e12
 	}
 
 }
