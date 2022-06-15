@@ -4,7 +4,7 @@ import java.awt.image.BufferedImage; //Importanto clase BufferedImage
 
 public class Actor {
 
-	private BufferedImage textura = new BufferedImage(0, 0, 0); // atributo de la clase Actor, este atributo es privado,
+	private BufferedImage textura; // atributo de la clase Actor, este atributo es privado,
 																// las clase pueden tener objetos como atributos
 																// Instanciando objeto de la clase BufferedImage
 	public int peso = 45; // creando un atributo publico de tipo entero de la clase Actor
