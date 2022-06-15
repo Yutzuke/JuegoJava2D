@@ -10,6 +10,7 @@ public class Juego2D { // Creando clase Juego2D
 												// el argumento de este metodo es un array de String o cadenas
 
 		Actor objetoActor = new Actor(34); // le paso la edad
+		
 	}
 
 }
