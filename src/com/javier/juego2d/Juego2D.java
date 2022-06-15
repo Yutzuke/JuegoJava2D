@@ -1,6 +1,6 @@
 package com.javier.juego2d; //Definiendo el paquete donde va la clase Juego2D
 
-import com.javier.actores.Actor;
+import com.javaier.ventana.Ventana; //Importando la clase Ventana
 
 public class Juego2D { // Creando clase Juego2D
 
@@ -8,8 +8,7 @@ public class Juego2D { // Creando clase Juego2D
 												// argumeto
 												// el argumento de este metodo es un array de String o cadenas
 
-		Actor objetoActor = new Actor(34); // le paso la edad
-
+		new Ventana(); // Breviando la construccion de un objeto
 
 	}
 
