@@ -1,4 +1,4 @@
-package com.javaier.ventana; //Definiendo paquete donde se guradara la clase ventana
+package com.javier.ventana; //Definiendo paquete donde se guradara la clase ventana
 
 import javax.swing.JFrame; //Importando la clase Graphics
 

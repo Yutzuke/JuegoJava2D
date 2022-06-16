@@ -1,6 +1,6 @@
 package com.javier.juego2d; //Definiendo el paquete donde va la clase Juego2D
 
-import com.javaier.ventana.Ventana; //Importando la clase Ventana
+import com.javier.ventana.Ventana;
 
 public class Juego2D { // Creando clase Juego2D
 
