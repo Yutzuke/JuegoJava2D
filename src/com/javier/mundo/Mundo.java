@@ -1,4 +1,4 @@
-package com.javier.mundo; //Definiendo paquete donde se guradara la clase Mundo
+package com.javier.mundo; //Definiendo paquete donde se guardara la clase Mundo
 
 public class Mundo {
 
@@ -20,7 +20,7 @@ public class Mundo {
 		return ancho;
 	}
 
-	public void setAncho(int ancho) { // Metodo publico de la clase Mundo que recibe un entero como argumento
+	public void setAncho(int ancho) { // Metodo publico vacio de la clase Mundo que recibe un entero como argumento
 		this.ancho = ancho;
 	}
 
@@ -28,7 +28,7 @@ public class Mundo {
 		return alto;
 	}
 
-	public void setAlto(int alto) { // Metodo publico de la clase Mundo que recibe un entero como argumento
+	public void setAlto(int alto) { // Metodo publico vacio de la clase Mundo que recibe un entero como argumento
 		this.alto = alto;
 	}
 

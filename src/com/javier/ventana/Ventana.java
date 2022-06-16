@@ -1,4 +1,4 @@
-package com.javier.ventana; //Definiendo paquete donde se guradara la clase ventana
+package com.javier.ventana; //Definiendo paquete donde se guardara la clase ventana
 
 import javax.swing.JFrame; //Importando la clase Graphics
 
@@ -15,15 +15,16 @@ public class Ventana extends JFrame { // Herencia explicita, heredo de la clase 
 		super("Ventana"); // llamando al constructor de la super clase JFrame
 
 		// this es yo misma
-		this.setSize(640, 480); // Metodo que herede de la clase JFrame que define un tamaño de la Ventana
+		this.setSize(640, 480); // Metodo que herede de la clase JFrame, que define un tamaño de la Ventana
 
-		this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); // Metodo que controla el cierre de la ventana
+		this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE); // Metodo que herede de la clase JFrame, que controla el
+																// cierre de la ventana
 
 		Renderizado2D render2D = new Renderizado2D(); // Instansiando objeto de la clase Renderizado2D
 
 		this.add(render2D); // Metodo que herede de la clase JFrame, que añade a un componete grafico
 
-		this.setVisible(true); // metodo que hace visible la ventana
+		this.setVisible(true); // metodo que herede de la clase JFrame, que hace visible la ventana
 
 	}
 
