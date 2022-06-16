@@ -5,10 +5,10 @@ import java.awt.image.BufferedImage; //Importanto clase BufferedImage
 public class Actor {
 
 	private BufferedImage textura; // atributo de la clase Actor, este atributo es privado,
-																// las clase pueden tener objetos como atributos
-																// Instanciando objeto de la clase BufferedImage
+									// las clase pueden tener objetos como atributos
+									// Instanciando objeto de la clase BufferedImage
 	public int peso = 45; // creando un atributo publico de tipo entero de la clase Actor
-	
+
 	protected float fuerza = 45.45f; // Creando un atributo protegido de tipo decimal o de coma flotante de la clase
 										// Actor
 
@@ -33,7 +33,7 @@ public class Actor {
 	}
 
 	public void comer(String tipoComida) // Creanado metodo publico vacio comer de la clase Actor
-	{                                    // metodo que recibe un agumento de tipo cadena
+	{ // metodo que recibe un agumento de tipo cadena
 
 	}
 
