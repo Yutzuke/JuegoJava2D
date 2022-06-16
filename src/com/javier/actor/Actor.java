@@ -1,4 +1,4 @@
-package com.javier.actores; //Definiendo el paquete donde va la clase Actor
+package com.javier.actor; //Definiendo el paquete donde va la clase Actor
 
 import java.awt.image.BufferedImage; //Importanto clase BufferedImage
 

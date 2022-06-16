@@ -1,6 +1,6 @@
 package com.javier.actores.personajes;
 
-import com.javier.actores.Actor;
+import com.javier.actor.Actor;
 
 public class NaveAzul extends Actor{
 

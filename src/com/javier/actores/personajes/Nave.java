@@ -1,6 +1,6 @@
 package com.javier.actores.personajes; //Definiendo el paquete donde va la clase Nave
 
-import com.javier.actores.Actor; //Importanto clase Actor
+import com.javier.actor.Actor;
 
 public class Nave extends Actor { // Heredando de la clase Actor
 
